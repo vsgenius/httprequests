@@ -50,8 +50,8 @@ class StackUploader:
         return f'No questions with the {name_lang} Tag' if name == False else print()
 
 if __name__ == '__main__':
-    tokenYA = 'AQAAAAAB81f3AADLWzYPyYZ01kzYvRRoDeRxico'
-    tokenSH = '2619421814940190'
+    tokenYA = '!!!!!!!!!!!!'
+    tokenSH = '!!!!!!!!!!!!!!'
     path_to_file = ['yauploader.txt','yauploder2.txt']
     print('\nHomework:1\n')
     hero = Superheroapi(tokenSH)
